@@ -1,0 +1,27 @@
+{
+  "name": "java-script-footer-creator",
+  "version": "0.1.0",
+  "description": "Create a footer in JS for your Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelroma777/Java-Script-Footer-Creator.git"
+  },
+  "keywords": [
+    "java-script",
+    "footer-creator",
+    "website"
+  ],
+  "author": "Manuel <manuelroma555@hotmail.es> (https://github.com/manuelroma777)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manuelroma777/Java-Script-Footer-Creator/issues"
+  },
+  "homepage": "https://github.com/manuelroma777/Java-Script-Footer-Creator#readme",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
